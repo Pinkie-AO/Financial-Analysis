@@ -73,5 +73,7 @@ c. Investigate the Office Supplies category to identify pricing, procurement, or
 d. Optimize shipping operations in regions with higher logistics costs to improve overall profitability.
 
 e. Focus customer retention and marketing efforts on the Consumer segment while identifying opportunities to grow the Corporate and Home Office segments.
+
 f. Encourage larger order quantities through carefully designed promotions that maintain healthy profit margins.
+
 g. Monitor key financial KPIs regularly through the Power BI dashboard to support data-driven strategic decisions.
